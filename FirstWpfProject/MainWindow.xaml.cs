@@ -27,7 +27,8 @@ namespace FirstWpfProject
         }
         void ChangeTitle()
         {
-            this.Title = "Humay's Form";
+            this.Title = "Humay's  new github Form";
+          
         }
 
         private void WindowLoaded(object sender, RoutedEventArgs e)
